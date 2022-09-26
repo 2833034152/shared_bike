@@ -1,0 +1,129 @@
+﻿  正在清理远程项目目录
+  正在验证源
+  正在将源远程复制到“192.168.171.131”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  bike.pb.cpp
+H:\维修电脑上的vs2019项目\dkx_bike\bike.pb.cpp(828,71): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\bike.pb.cpp(836,72): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\bike.pb.cpp(1149,72): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\bike.pb.cpp(1418,71): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\bike.pb.cpp(1689,73): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\bike.pb.cpp(1970,71): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\bike.pb.cpp(1989,74): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\bike.pb.cpp(2516,71): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\bike.pb.cpp(2535,74): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\bike.pb.cpp(3051,71): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\bike.pb.cpp(3059,72): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\bike.pb.cpp(3360,71): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\bike.pb.cpp(4202,71): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+  BusProcessor.cpp
+H:\维修电脑上的vs2019项目\dkx_bike\SqlTables.h(34,81): warning : backslash and newline separated by space [enabled by default]
+H:\维修电脑上的vs2019项目\dkx_bike\SqlTables.h(34,81): warning :          id   int    NOT NULL primary key auto_increment, devno  int  NOT NULL , \
+H:\维修电脑上的vs2019项目\dkx_bike\SqlTables.h(34,81): warning :  ^
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning : no return statement in function returning non-void [-Wreturn-type]
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning :   void* set_args(void* args) { args_ = args; };
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning :                                              ^
+H:\维修电脑上的vs2019项目\dkx_bike\events_def.h(64,45): warning : returning reference to temporary [-Wreturn-local-addr]
+H:\维修电脑上的vs2019项目\dkx_bike\events_def.h(64,45): warning :   const i32& get_icode() { return msg_.icode(); };
+H:\维修电脑上的vs2019项目\dkx_bike\events_def.h(64,45): warning :                                              ^
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.h(51,18): warning : conversion to ‘i32 {aka int}’ from ‘my_ulonglong {aka long long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.h(51,18): warning :    return m_pRes->row_count;
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.h(51,18): warning :                   ^
+  DispatchMsgSerivce.cpp
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning : no return statement in function returning non-void [-Wreturn-type]
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning :   void* set_args(void* args) { args_ = args; };
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning :                                              ^
+H:\维修电脑上的vs2019项目\dkx_bike\events_def.h(64,45): warning : returning reference to temporary [-Wreturn-local-addr]
+H:\维修电脑上的vs2019项目\dkx_bike\events_def.h(64,45): warning :   const i32& get_icode() { return msg_.icode(); };
+H:\维修电脑上的vs2019项目\dkx_bike\events_def.h(64,45): warning :                                              ^
+H:\维修电脑上的vs2019项目\dkx_bike\DispatchMsgSerivce.cpp(101,34): warning : conversion to ‘i32 {aka int}’ from ‘int_t {aka long int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\DispatchMsgSerivce.cpp(101,34): warning :   return thread_task_post(tp, task);          //��task����Ͷ�ݵ��߳���ȥ
+H:\维修电脑上的vs2019项目\dkx_bike\DispatchMsgSerivce.cpp(101,34): warning :                                   ^
+H:\维修电脑上的vs2019项目\dkx_bike\DispatchMsgSerivce.cpp(305,22): warning : conversion to ‘u16 {aka short unsigned int}’ from ‘google::protobuf::int32 {aka int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\DispatchMsgSerivce.cpp(305,22): warning :        code = lr.code();
+H:\维修电脑上的vs2019项目\dkx_bike\DispatchMsgSerivce.cpp(305,22): warning :                       ^
+H:\维修电脑上的vs2019项目\dkx_bike\DispatchMsgSerivce.cpp(284,9): warning : variable ‘icode’ set but not used [-Wunused-but-set-variable]
+H:\维修电脑上的vs2019项目\dkx_bike\DispatchMsgSerivce.cpp(284,9): warning :      i32 icode;
+H:\维修电脑上的vs2019项目\dkx_bike\DispatchMsgSerivce.cpp(284,9): warning :          ^
+  ievent.cpp
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning : no return statement in function returning non-void [-Wreturn-type]
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning :   void* set_args(void* args) { args_ = args; };
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning :                                              ^
+  events_def.cpp
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning : no return statement in function returning non-void [-Wreturn-type]
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning :   void* set_args(void* args) { args_ = args; };
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning :                                              ^
+H:\维修电脑上的vs2019项目\dkx_bike\events_def.h(64,45): warning : returning reference to temporary [-Wreturn-local-addr]
+H:\维修电脑上的vs2019项目\dkx_bike\events_def.h(64,45): warning :   const i32& get_icode() { return msg_.icode(); };
+H:\维修电脑上的vs2019项目\dkx_bike\events_def.h(64,45): warning :                                              ^
+  eventtype.cpp
+  iniconfig.cpp
+H:\维修电脑上的vs2019项目\dkx_bike\iniconfig.cpp(35,49): warning : conversion to ‘short unsigned int’ from ‘int’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\iniconfig.cpp(35,49): warning : conversion to ‘short unsigned int’ from ‘int’ may alter its value [-Wconversion]
+  Logger.cpp
+  NetworkInterface.cpp
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning : no return statement in function returning non-void [-Wreturn-type]
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning :   void* set_args(void* args) { args_ = args; };
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning :                                              ^
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(82,27): warning : conversion to ‘uint16_t {aka short unsigned int}’ from ‘int’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(82,27): warning :   sin.sin_port = htons(port);
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(82,27): warning :                            ^
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(86,25): warning : unused variable ‘listener_’ [-Wunused-variable]
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(86,25): warning :   struct evconnlistener* listener_
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(86,25): warning :                          ^
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(93,1): warning : no return statement in function returning non-void [-Wreturn-type]
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(93,1): warning :  }
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(93,1): warning :  ^
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(144,110): warning : conversion to ‘i32 {aka int}’ from ‘size_t {aka long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(184,111): warning : conversion to ‘i32 {aka int}’ from ‘size_t {aka long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(215,6): warning : unused variable ‘icode’ [-Wunused-variable]
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(215,6): warning :   i32 icode;
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(215,6): warning :       ^
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(29,1): warning : control reaches end of non-void function [-Wreturn-type]
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(29,1): warning :  }
+H:\维修电脑上的vs2019项目\dkx_bike\NetworkInterface.cpp(29,1): warning :  ^
+  sqlconnection.cpp
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.h(51,18): warning : conversion to ‘i32 {aka int}’ from ‘my_ulonglong {aka long long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.h(51,18): warning :    return m_pRes->row_count;
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.h(51,18): warning :                   ^
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.cpp(81,62): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.cpp(81,62): warning :   return mysql_real_escape_string(mysql_, pDest, pSrc, nSrcLen);
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.cpp(81,62): warning :                                                               ^
+  test.cpp
+H:\维修电脑上的vs2019项目\dkx_bike\event.h(40,45): warning : no return statement in function returning non-void [-Wreturn-type]
+H:\维修电脑上的vs2019项目\dkx_bike\event.h(40,45): warning :   void* set_args(void* args) { args_ = args; };
+H:\维修电脑上的vs2019项目\dkx_bike\event.h(40,45): warning :                                              ^
+H:\维修电脑上的vs2019项目\dkx_bike\events_def.h(64,45): warning : returning reference to temporary [-Wreturn-local-addr]
+H:\维修电脑上的vs2019项目\dkx_bike\events_def.h(64,45): warning :   const i32& get_icode() { return msg_.icode(); };
+H:\维修电脑上的vs2019项目\dkx_bike\events_def.h(64,45): warning :                                              ^
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.h(51,18): warning : conversion to ‘i32 {aka int}’ from ‘my_ulonglong {aka long long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.h(51,18): warning :    return m_pRes->row_count;
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.h(51,18): warning :                   ^
+  thread_cond.cpp
+  thread_mutex.cpp
+  thread_pool.cpp
+H:\维修电脑上的vs2019项目\dkx_bike\threadpool\thread_pool.cpp(188,25): warning : unused variable ‘err’ [-Wunused-variable]
+H:\维修电脑上的vs2019项目\dkx_bike\threadpool\thread_pool.cpp(188,25): warning :      int                 err;
+H:\维修电脑上的vs2019项目\dkx_bike\threadpool\thread_pool.cpp(188,25): warning :                          ^
+  user_event_handler.cpp
+H:\维修电脑上的vs2019项目\dkx_bike\user_event_handler.cpp(6,20): warning : extra tokens at end of #include directive [enabled by default]
+H:\维修电脑上的vs2019项目\dkx_bike\user_event_handler.cpp(6,20): warning :  #include <assert.h>>
+H:\维修电脑上的vs2019项目\dkx_bike\user_event_handler.cpp(6,20): warning :                     ^
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning : no return statement in function returning non-void [-Wreturn-type]
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning :   void* set_args(void* args) { args_ = args; };
+H:\维修电脑上的vs2019项目\dkx_bike\ievent.h(40,45): warning :                                              ^
+H:\维修电脑上的vs2019项目\dkx_bike\events_def.h(64,45): warning : returning reference to temporary [-Wreturn-local-addr]
+H:\维修电脑上的vs2019项目\dkx_bike\events_def.h(64,45): warning :   const i32& get_icode() { return msg_.icode(); };
+H:\维修电脑上的vs2019项目\dkx_bike\events_def.h(64,45): warning :                                              ^
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.h(51,18): warning : conversion to ‘i32 {aka int}’ from ‘my_ulonglong {aka long long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.h(51,18): warning :    return m_pRes->row_count;
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.h(51,18): warning :                   ^
+  user_service.cpp
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.h(51,18): warning : conversion to ‘i32 {aka int}’ from ‘my_ulonglong {aka long long unsigned int}’ may alter its value [-Wconversion]
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.h(51,18): warning :    return m_pRes->row_count;
+H:\维修电脑上的vs2019项目\dkx_bike\sqlconnection.h(51,18): warning :                   ^
+  正在链接对象
+  dkx_bike.vcxproj -> H:\维修电脑上的vs2019项目\dkx_bike\bin\x64\Debug\dkx_bike.out
